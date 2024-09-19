@@ -9,7 +9,8 @@ This Python script pulls HTML content from a URL you specify and uses the Beauti
 - Retrieve HTML content from the target URL
 - Display HTML content in a readable format
 - Save to a user-specified file name
-- Open the file in the browser  
+- Open the file in the browser
+
 **Requirements:**
 
 - Python 3
