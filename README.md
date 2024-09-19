@@ -19,6 +19,11 @@ This Python script pulls HTML content from a URL you specify and uses the Beauti
 - Colorama
 - Webbrowser
 
+# INSTALLATION
+sudo git clone https://github.com/charliecpln/webdownloader.git  
+cd webdownloader  
+python webdownloader.py  
+
 # TÜRKÇE
 Bu Python scripti, belirttiğiniz bir URL'den HTML içeriğini çekmekte ve bunu okunabilir bir formatta göstermek için BeautifulSoup kütüphanesini kullanmaktadır. Kullanıcı, HTML içeriğini bir dosyaya kaydedebilir ve tarayıcıda açabilir. Script, kullanıcı kütüphanelerinin yüklü olup olmadığını kontrol eder ve gerekirse otomatik olarak yükler.
 
